@@ -12,4 +12,4 @@ spec:
     - protocol: TCP
       port: 80
       targetPort: 80
-  loadBalancerIP: 34.47.180.148
+  loadBalancerIP: 34.14.168.7
